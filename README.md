@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <a href="https://wa.me/9529939473?text=👋Hi...I am *...Type Your Name...*" target="_blank">
+  <a href="https://wa.me/9529939473?text=Hi...👋 I am *...Type Your Name...*" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Send Message on WhatsApp" height="30" width="40" />
   </a>
 </p>
