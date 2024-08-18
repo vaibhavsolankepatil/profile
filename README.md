@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <a href="https://instagram.com/vaibhav_solanke_.patil" target="blank">
-  <img src="https://img.shields.io/badge/Follow-%40vaibhav_solanke_.patil-E4405F?logo=instagram&style=for-the-badge" alt="Follow @vaibhav_solanke_.patil on Instagram" /> 
+  <img src="https://img.shields.io/badge/Follow-%40vaibhav_solanke_.patil-E4405F?logo=instagram&style=for-the-badge" alt="Follow @vaibhav_solanke_.patil on Instagram" />
 </a> </p>
 
 <p align="left"> <a href="https://twitter.com/SOLANKEVAIBHAV5" target="blank">
@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 ☆⁣ 🧑‍💻 I’m currently learning **𝐃𝐢𝐩𝐥𝐨𝐦𝐚 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐨𝐟 𝐓𝐡𝐢𝐫𝐝 𝐘𝐞𝐚𝐫**
 
 <h3 align="left">Connect with me :</h3>
-
-<p align="left">
-<a href="https://twitter.com/SOLANKEVAIBHAV5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SOLANKEVAIBHAV5" height="30" width="40" /></a>
-</p>
 
 <p align="left">
   <a href="https://instagram.com/vaibhav_solanke_.patil" target="_blank">
@@ -49,13 +45,29 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
+  <a href="https://www.youtube.com/@vaibhavsolankepatil?sub_confirmation=1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Subscribe to my YouTube Channel" height="30" width="40" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://t.me/vaibhavsolankepatil" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Add me on telegram" height="30" width="40" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.snapchat.com/add/vaibhavsol.pa?share_id=YHLUpZkWn_s&locale=en-GB" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670166.png" alt="Add me on Snapchat" height="30" width="40" />
+  </a>
+</p>
+
+<p align="left">
   <a href="https://wa.me/9529939473?text=Hi...👋 I am *...Type Your Name...*" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Send Message on WhatsApp" height="30" width="40" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.youtube.com/@vaibhavsolankepatil?sub_confirmation=1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Subscribe to my YouTube Channel" height="30" width="40" />
-  </a>
+<a href="https://twitter.com/SOLANKEVAIBHAV5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SOLANKEVAIBHAV5" height="30" width="40" /></a>
 </p>
