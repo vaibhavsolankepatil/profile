@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ☆ ⚡ Take a glimpse of my Portofilo...Single click On below link...↓↓🔗
 
-☆ 🔗 https://vaibhavsolankepatil.github.io/vs_creation/
+☆ 🔗 https://vaibhavsolankepatil.github.io/vs_portfolio/
 
 <h3 align="left">Connect with me :</h3>
 
